@@ -11,5 +11,18 @@
     "hexo-theme"
   ],
   "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hexo-autoprefixer": "^2.0.0",
+    "hexo-filter-cleanup": "^1.2.2",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-sitemap": "^2.1.0",
+    "hexo-renderer-sass": "^0.4.0",
+    "hexo-renderer-swig": "^1.1.0",
+    "lunr": "github:mamboer/lunr.js",
+    "moment": "^2.29.1",
+    "node-sass": "^5.0.0",
+    "nodejieba": "^2.5.1",
+    "object-assign": "^4.1.1"
+  }
 }
